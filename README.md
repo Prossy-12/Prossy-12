@@ -1,16 +1,21 @@
 ## Hi there 👋
+ Aspiring Product-Oriented Backend Developer | Agile Enthusiast | Scrum Practitioner
+ 
+Hi, I’m Proscovia Nalwoga a backendfocused developer with a strong foundation in JavaScript, Node.js, and PostgreSQL , MongoDB databases. I’m passionate about building clean, scalable APIs and designing systems that solve realworld problems.
 
-<!--
-**Prossy-12/Prossy-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I thrive in agile teams, actively contributing to sprint planning, retrospectives, and product discussions. My interest in Scrum and Product Management pushes me beyond just writing code  I love understanding user needs, aligning technical decisions with business goals, and delivering value iteratively.
 
-Here are some ideas to get you started:
+ What I do:
+Build backend services and RESTful APIs using Node.js, PostgreSQL, and MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Collaborate in crossfunctional teams following Scrum/Agile
+
+Think like a product owner  always focusing on user impact and feedback
+
+Explore clean code, version control, and development best practices
+
+ Currently learning more about:
+   Agile coaching , Product roadmapping
+
+Let’s build better products—one sprint at a time. 
+
