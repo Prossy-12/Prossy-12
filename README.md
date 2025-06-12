@@ -23,10 +23,15 @@ Product roadmapping
  TECHNICAL SKILLS
 
 LANGUAGES: JavaScript, TypeScript, HTML, CSS
+
 FRAME WORKS: Node.js, Express.js, React Native
+
 DATABASES: PostgreSQL, MongoDB
+
 TOOLS: Git, GitHub,  Trello
+
 UI/UX: Figma, Bootstrap, Wireframing
+
 PRACTICES: Agile (Scrum/Kanban), API Design, Prototyping
 
  Let’s build better products  one sprint at a time.
