@@ -5,7 +5,8 @@ Hi, I’m Proscovia Nalwoga  a backendfocused developer with a strong foundation
 
 I thrive in agile teams, actively contributing to sprint planning, retrospectives, and product discussions. My interest in Scrum and Product Management pushes me beyond just writing code  I love understanding user needs, aligning technical decisions with business goals, and delivering value iteratively.
 
- What I do:
+ WHAT L CAN DO:
+
 Build backend services and RESTful APIs using Node.js, PostgreSQL, and MongoDB
 
 Collaborate in crossfunctional teams following Scrum/Agile
@@ -19,13 +20,14 @@ Agile coaching
 
 Product roadmapping
 
- Technical Skills:
-Languages: JavaScript, TypeScript, HTML, CSS
-Frameworks: Node.js, Express.js, React Native
-Databases: PostgreSQL, MongoDB
-Tools: Git, GitHub,  Trello
+ TECHNICAL SKILLS
+
+LANGUAGES: JavaScript, TypeScript, HTML, CSS
+FRAME WORKS: Node.js, Express.js, React Native
+DATABASES: PostgreSQL, MongoDB
+TOOLS: Git, GitHub,  Trello
 UI/UX: Figma, Bootstrap, Wireframing
-Practices: Agile (Scrum/Kanban), API Design, Prototyping
+PRACTICES: Agile (Scrum/Kanban), API Design, Prototyping
 
  Let’s build better products  one sprint at a time.
 
